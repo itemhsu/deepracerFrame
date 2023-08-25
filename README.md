@@ -23,3 +23,10 @@ Create a prortable deepracer frame with water pipe
 | 橡膠槌      |     |    1 | 五金行 |
 | 提袋      |  長150cm, 直徑25cm  |    1 | https://item.taobao.com/item.htm?spm=a1z09.2.0.0.11d12e8dQJwnag&id=602927162775&_u=n20ekghrq890cf |
 
+## 水管加工
+| 名稱        | 圖片        | 數量    |
+| ------------- |-------------| -----| 
+| 斜三通 ＋ 20cm 水管  ＋ 立體三通 ＋ 20cm 水管  ＋   斜三通 ＋ 100cm 水管 |  ![ glue圖  ](/p1.png)       | 4 | 
+| 斜三通 ＋ 20cm 水管  ＋  斜三通 ＋ 100cm 水管 |  ![ glue圖  ](/p2.png)       | 6 | 
+| 70.7cm 水管  ＋  彎頭 |  ![ glue圖  ](/p4.png)       | 10 | 
+| 70.7cm 水管  |  ![ glue圖  ](/p3.png)       | 10 | 
