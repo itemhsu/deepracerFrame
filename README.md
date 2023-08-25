@@ -30,3 +30,9 @@ Create a prortable deepracer frame with water pipe
 | 斜三通 ＋ 20cm 水管  ＋  斜三通 ＋ 100cm 水管 |  ![ glue圖  ](/p2.png)       | 6 | 
 | 70.7cm 水管  ＋  彎頭 |  ![ glue圖  ](/p4.png)       | 10 | 
 | 70.7cm 水管  |  ![ glue圖  ](/p3.png)       | 10 | 
+
+## 水管加工注意事項
+* 上膠後，必須用橡膠槌敲緊
+* 上膠後，膠水很快乾，動作要快
+* 上膠後，應置放12小時
+  
